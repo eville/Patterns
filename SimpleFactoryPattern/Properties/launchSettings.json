@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleFactoryPattern": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Renault\""
+    }
+  }
+}
