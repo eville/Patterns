@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{2EF65C58-A220-4EA3-AC15-03E8D898D0A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{7CC03678-8262-4F6F-ADD5-CB13DB075BC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{7CC03678-8262-4F6F-ADD5-CB13DB075BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocatorPatternWinFormsApp", "ServiceLocatorPatternWinFormsApp\ServiceLocatorPatternWinFormsApp.csproj", "{027E59C8-3B28-4923-B364-F982D47B8309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocatorImproved", "ServiceLocatorImproved\ServiceLocatorImproved.csproj", "{2498E170-D6E1-401E-B4E3-11B99E9352E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocatorAdvanced", "ServiceLocatorAdvanced\ServiceLocatorAdvanced.csproj", "{BA890C46-27D8-4A5B-BA5E-C8C48551DEE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{7CC03678-8262-4F6F-ADD5-CB13DB075BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CC03678-8262-4F6F-ADD5-CB13DB075BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CC03678-8262-4F6F-ADD5-CB13DB075BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027E59C8-3B28-4923-B364-F982D47B8309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027E59C8-3B28-4923-B364-F982D47B8309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027E59C8-3B28-4923-B364-F982D47B8309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027E59C8-3B28-4923-B364-F982D47B8309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2498E170-D6E1-401E-B4E3-11B99E9352E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2498E170-D6E1-401E-B4E3-11B99E9352E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2498E170-D6E1-401E-B4E3-11B99E9352E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2498E170-D6E1-401E-B4E3-11B99E9352E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA890C46-27D8-4A5B-BA5E-C8C48551DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA890C46-27D8-4A5B-BA5E-C8C48551DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA890C46-27D8-4A5B-BA5E-C8C48551DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA890C46-27D8-4A5B-BA5E-C8C48551DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
