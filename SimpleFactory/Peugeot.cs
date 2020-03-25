@@ -8,7 +8,7 @@ namespace SimpleFactory
     {
         public void TurnOff()
         {        
-            
+            throw new NotImplementedException();
         }
 
         public void TurnOn()
